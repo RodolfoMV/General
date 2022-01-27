@@ -38,3 +38,7 @@ git branch
 git checkout -b 'nombre_del_branch'
 ```
 - Sirve para crear una rama.
+```
+git checkout nombre_del_branch
+```
+- :eye: git checkout sin la "-b" y el nombre de la rama sirve para pasar de una rama a otra.
