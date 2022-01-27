@@ -46,3 +46,7 @@ git checkout nombre_del_branch
 git merge nombre_de_rama
 ```
 - Este comando requiere que primero se posicione en la rama principal. Luego se une una rama secundaria a la rama principal.
+```
+git branch -d 'nombre_de_rama'
+```
+- Este comando elimina la rama localmente.
