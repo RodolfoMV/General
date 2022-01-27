@@ -42,3 +42,7 @@ git checkout -b 'nombre_del_branch'
 git checkout nombre_del_branch
 ```
 - :eye: git checkout sin la "-b" y el nombre de la rama sirve para pasar de una rama a otra.
+```
+git merge nombre_de_rama
+```
+- Este comando requiere que primero se posicione en la rama principal. Luego se une una rama secundaria a la rama principal.
