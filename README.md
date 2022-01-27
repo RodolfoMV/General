@@ -26,3 +26,7 @@ Sirve para subir los cambios a nuestro repositorio en la nube. En este caso a GI
 git clone url_de_github.com
 ```
 Este comando me crea por defauld una carpeta con el nombre del repositorio. A través de este comando puedo descargar un proyecto que se encuentra en repositorios públicos en GITHUB.
+```
+git pull origin main
+```
+Este comando permite actualizar en la computadora local algún cambio realizado en GITHUB.
