@@ -30,3 +30,11 @@ git clone url_de_github.com
 git pull origin main
 ```
 - Este comando permite actualizar en la computadora local algún cambio realizado en GITHUB.
+```
+git branch
+```
+- Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro catualmente.
+```
+git checkout -b 'nombre_del_branch'
+```
+- Sirve para crear una rama.
